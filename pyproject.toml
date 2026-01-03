@@ -1,0 +1,8 @@
+[project]
+name = "circus"
+version = "1.0.0"
+license = {text = "AGPL-3.0"}
+description = "Lightweight Python MVC+ORM website template using Svelte & Postgres"
+dependencies = [
+    "python-dotenv>=1.0.0",
+]
